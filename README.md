@@ -47,7 +47,7 @@ For the menu page, the owners would like to store the menu information in a data
 ## `Installing`
 ```bash
 # downloading the project
-https://github.com/yashBhende1/Littilelemon.git
+https://github.com/yashraj1080/Little-lemon-coursera
 ```
 ### After that, you need to open the project in your IDE and run it.
 
